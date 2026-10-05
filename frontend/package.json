@@ -1,0 +1,9 @@
+{
+  "name": "pulsepoll-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {"dev": "vite --host 0.0.0.0", "build": "vite build", "preview": "vite preview"},
+  "dependencies": {"react": "19.2.6", "react-dom": "19.2.6", "lucide-react": "1.31.0"},
+  "devDependencies": {"vite": "8.0.13", "@vitejs/plugin-react": "6.0.2"}
+}
